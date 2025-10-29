@@ -14,9 +14,33 @@ agentologist is an educational repository designed to teach you:
 - 🚀 Best practices for deploying agents
 - 🎓 Real-world examples and projects
 
+## Learning Path Structure
+
+### 🎯 Phase 1: Foundation (Weeks 1-2)
+
+**Goal**: Understand what agentic AI is and why it matters
+
+#### Learning Objectives
+
+- [ ] Define agentic AI and understand its applications
+- [ ] Learn about degrees of autonomy in AI systems
+- [ ] Understand the benefits and limitations of agentic workflows
+- [ ] Build your first simple agent
+
+#### Hands-on Practice
+
+- Build a simple research agent example
+- Create a basic task decomposition agent
+- Practice different evaluation methods for agentic AI
+
+---
+
 ## Getting Started
 
-[Coming soon - Learning path]
+1. **Start with Phase 1**: Begin with the foundation concepts
+2. **Set up your environment**: Prepare your development environment
+3. **Track your progress**: Use the learning objectives checklists above
+4. **Build projects**: Complete hands-on exercises for Phase 1
 
 ## Structure
 
